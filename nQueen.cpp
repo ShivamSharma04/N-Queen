@@ -20,7 +20,7 @@
  *      This program will output the total no. of Solutions possible for N Queens.
  *
  * @Compiler version on which Program is Last Run before uploading to Github: Dev-C++ 5.4.1, Date: 1st July, 2013  
- * @author Gurpreet Singh
+ * @author Shivam Sharma
  */    
 #include <iostream>
 #include<cstdlib>
