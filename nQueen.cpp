@@ -2,8 +2,7 @@
 /** N-Queen -- Using 1D Array, backtracking
  *  N-Queen.cpp
  *     
- *  Fall, 2011
- *
+ 
  *  Problem: N-Queen Problem
  *     The eight queens puzzle is the problem of placing eight chess queens on an 8×8 chessboard so 
  *     that no two queens attack each other. Thus, a solution requires that no two queens share the same row, 
